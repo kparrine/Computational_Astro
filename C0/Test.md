@@ -7,3 +7,5 @@ Testing to see if I can make a folder in the Github repo. I have already gone ah
 ## Folders Help
 - You need to do a git add of the file and folder at the same time
 - Same for editing a file which I'm practicing with right now
+## Comments
+This is pretty specific, but I notice that when I do the git log, any changes done through the Github page shows the no reply email since it's private, but in git it gives the email I attached with the "global" command. Also, in the git history there is are verified vs unverified(?) changes. I wonder what that's about. 
