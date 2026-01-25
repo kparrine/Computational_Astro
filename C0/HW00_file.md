@@ -14,3 +14,4 @@ This is pretty specific, but I notice that when I do the git log, any changes do
 2. Can you create empty folders like on a computer?
 # The Last Commit
 Just as it says on the tin for this section. There's really nothing important about this piece. Even the message will be weird because I simply don't really know what to write on this file anymore. Oh! I have an idea, I might see if I can change the name of this file since it's not really a test anymore. 
+# Rename success!
